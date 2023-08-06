@@ -1,0 +1,11 @@
+[package]
+name = "cuicui"
+authors = ["Nicola Papale"]
+description = "Meta-crate for the cuicui toolsuite (a 3rd party Bevy UI framework)"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+keywords = []
+categories = ["game-development"]
+repository = "https://github.com/nicopap/cuicui"
+version = "0.8.0"
+edition = "2021"
